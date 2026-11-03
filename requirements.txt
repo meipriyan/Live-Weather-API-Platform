@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+requests
+pandas
+streamlit
+streamlit-autorefresh
+plotly
+apscheduler

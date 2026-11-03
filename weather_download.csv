@@ -1,0 +1,2 @@
+city,recorded_at,data_type,temperature_c,humidity_percent,rainfall_mm,cloud_cover_percent,weather_code,wind_speed_kmh,wind_direction_degrees
+Chennai,2026-11-03 12:00:00,current,30.80,60.00,0.10,39.00,51,9.70,195.00

@@ -25,7 +25,7 @@ load_dotenv()
 
 API_URL = os.getenv(
     "API_BASE_URL",
-    "http://127.0.0.1:8000"
+    "https://live-weather-api-platform.onrender.com/"
 ).rstrip("/")
 # --------------------------------------------------
 # BLACK AND DARK ORANGE THEME
@@ -458,7 +458,7 @@ if st.button("Prepare CSV Download", use_container_width=True):
     else:
 
         headers = {
-            "X-API-Key": api_key
+            "X-API-Key": '6cdad0cb-d76f-11f1-9950-6a0c291c530a'
         }
 
         params = {
